@@ -1,6 +1,6 @@
 👋 Hi, I’m @chayanC7mondal
 
-👀 I’m interested in full stack development, machine learning and UI/UX
+👀 I’m interested in full stack development, machine learning and Cloud computing.
 
 🌱 I’m currently learning web development
 
