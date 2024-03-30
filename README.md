@@ -2,7 +2,10 @@
 
 👀 I’m interested in full stack development, machine learning and Cloud computing.
 
-🌱 I’m currently learning web development
+📖 Abilities 🤓
+
+
+
 
 📫 reach me through my email : chayan.cm77@gmail.com
 
