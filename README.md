@@ -9,7 +9,7 @@
 
 👋 Hi, I’m @chayanC7mondal
 
-👀 I’m interested in full stack development, machine learning and Cloud computing.
+👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
 
 📖 Abilities 🤓
 
@@ -50,4 +50,12 @@
 <a href="your-twitter-URL">
     <img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
   </a> 
+</div>
+
+<div>
+  ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chayanC7mondal)](https://git.io/streak-stats)
 </div>
