@@ -27,7 +27,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<h2>🌐 Socials:</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chayan-mondal-881962177/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -57,9 +57,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight)
+<div align="left">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=vision-friendly-dark)](https://github.com/chayanC7mondal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=vision-friendly-dark)](https://github.com/chayanC7mondal/github-readme-stats)</div>
 
