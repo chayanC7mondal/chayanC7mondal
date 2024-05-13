@@ -24,24 +24,26 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/chayan-mondal-881962177/)">
+  <a href="(https://www.linkedin.com/in/chayan-mondal-881962177/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+   <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white> 
   </a>
   <a href="your-twitter-URL">
-   https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
+    <img src=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white>
   </a>
 
    <a href="your-twitter-URL">
-   https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+    <img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white>
   </a>
 
    <a href="https://bio.link/chayanmondal">
-  https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white
+   <img src=https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white>
   </a>
 </div>
