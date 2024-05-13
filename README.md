@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/chayan-mondal-881962177/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/chayan.mondal_?igsh=Z3RuOW1iaGg5aGFx">
    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white> 
   </a>
   <a href="your-twitter-URL">
@@ -47,7 +47,7 @@
    <img src=https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white>
   </a>
 
-<a href="your-twitter-URL">
+<a href="https://stackoverflow.com/users/23888792/chayan-mondal">
     <img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
   </a> 
 </div>
