@@ -61,5 +61,5 @@
 
  <img height="150"  src="https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight">
 
- <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=dark">
+ <img height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=dark">
 </div>
