@@ -59,7 +59,7 @@
 <div style="display:flex;flex-direction:row;justify-content:center;">
  <img height="160"   src="https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)">
 
- <img height="140"  src="https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight">
+ <img height="145"  src="https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight">
 
- <img height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=dark">
+ <img height="135"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=dark">
 </div>
