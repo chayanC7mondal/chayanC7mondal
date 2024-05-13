@@ -57,7 +57,7 @@
 
 ### :fire: My Stats :
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats).</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
 
 <div align="left">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight)
 
