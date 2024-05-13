@@ -58,4 +58,6 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=transparent)
 </div>
