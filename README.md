@@ -52,14 +52,14 @@
   </a> 
 </div>
 
-<div>
+
   ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=vision-friendly-dark)](https://github.com/chayanC7mondal/github-readme-stats)
-</div>
+
