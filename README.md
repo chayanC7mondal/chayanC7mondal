@@ -57,5 +57,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chayanC7mondal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
 </div>
