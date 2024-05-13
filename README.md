@@ -48,6 +48,6 @@
   </a>
 
 <a href="your-twitter-URL">
-    https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+    <img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
   </a> 
 </div>
