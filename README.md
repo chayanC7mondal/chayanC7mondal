@@ -11,7 +11,6 @@
 
 👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
 
-📖 Abilities 🤓
 
 
 
