@@ -51,9 +51,9 @@
   </a> 
 </div>
 
-<br>
-  ---
 
+  ---
+<br>
 ### :fire: My Stats :
 <div style="display:flex;flex-direction:row;justify-content:center;">
  <img height="160"   src="https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)">
