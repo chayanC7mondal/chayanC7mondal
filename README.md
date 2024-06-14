@@ -17,7 +17,7 @@
 
 📫 reach me through my email : chayan.cm77@gmail.com
 
-⚡ Fun fact: i love sleeping
+⚡ Fun fact: Your brain is constantly eating itself.
 
 
 
