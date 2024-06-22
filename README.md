@@ -1,9 +1,7 @@
 <h1>
   HEY THERE!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- 
 </h1>
-
 <br>
 <h1>💫 About Me:</h1>
 
@@ -11,16 +9,8 @@
 
 👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
 
-
-
-
-
 📫 reach me through my email : chayan.cm77@gmail.com
-
 ⚡ Fun fact: Your brain is constantly eating itself.
-
-
-
 <br>
 
 <div id="header" align="center">
@@ -51,7 +41,6 @@
     <img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
   </a> 
 </div>
-
 
   ---
 
