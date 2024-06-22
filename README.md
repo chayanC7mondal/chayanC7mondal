@@ -2,16 +2,28 @@
   HEY THERE!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+
+
 <br>
 <h1>💫 About Me:</h1>
+
+
+
 
 👋 Hi, I’m @chayanC7mondal
 
 👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
 
+
 📫 reach me through my email : chayan.cm77@gmail.com
 ⚡ Fun fact: Your brain is constantly eating itself.
 <br>
+
+
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
