@@ -29,6 +29,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+<br>
 <h2>🌐 Socials:</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chayan-mondal-881962177/" target="_blank">
