@@ -17,7 +17,7 @@
 👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
 
 
-📫 reach me through my email : chayan.cm77@gmail.com
+📫 reach me through my email : chayan.cm77@gmail.com<br>
 ⚡ Fun fact: Your brain is constantly eating itself.
 <br>
 
