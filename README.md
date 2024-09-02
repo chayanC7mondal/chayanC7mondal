@@ -65,5 +65,5 @@
 
  <img height="145"  src="https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight">
 
- <img height="135"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanC7mondal&layout=compact&theme=dark">
+
 </div>
