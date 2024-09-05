@@ -12,12 +12,12 @@
 
 
 
-👋 Hey there, I’m Chayan (@chayanC7mondal)!
-👀 Interests: Full Stack Development, Machine Learning, and Cloud Computing.
-📫 Reach me: chayan.cm77@gmail.com
+👋 Hey there, I’m Chayan (@chayanC7mondal)!<br>
+👀 Interests: Full Stack Development, Machine Learning, and Cloud Computing.<br>
+📫 Reach me: chayan.cm77@gmail.com<br>
 ⚡ Fun Fact: Your brain is so busy that it snacks on itself when you're not paying attention. So, if you forget things, just blame it on your brain’s midnight snack! 🧠🍕
 
-
+<br>
 
 
 
