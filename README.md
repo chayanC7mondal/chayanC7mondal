@@ -6,11 +6,7 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
 </div>
 <br>
-<div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="300"/>
-</div>
 
-<br>
 <h1>💫 About Me:</h1>
 
 
