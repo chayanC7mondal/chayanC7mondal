@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/chayan.mondal_?igsh=Z3RuOW1iaGg5aGFx">
    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white> 
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://chayan-mondal.vercel.app/">
     <img src=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white>
   </a>
 
