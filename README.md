@@ -67,6 +67,7 @@
 
 <br>
 <br>
+
 ## 💻 Tech Stack:
 
 ### 🚀 Core Programming Languages
@@ -78,7 +79,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
----
+
+
 
 ### ⚡ JavaScript Ecosystem
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
@@ -86,7 +88,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
----
+
+
 
 ### 🖥️ Full-Stack Development
 #### **MERN Stack** ⚛️
@@ -95,7 +98,8 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
----
+
+
 
 ### 🛠️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -104,14 +108,16 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 
----
+
+
 
 ### 🗄️ Databases & Data Management
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
+
 
 ### 🤖 Machine Learning & Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -130,7 +136,8 @@
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%2363B5F6.svg?style=for-the-badge&logo=daisyui&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+
+
 
 ### ☁️ Hosting & Deployment Platforms
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -138,13 +145,15 @@
 ![Render](https://img.shields.io/badge/Render-%2363B5F6.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+
+
 
 ### 📦 Package Managers
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
----
+
+
 
 ### 🎨 Creative Tools
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2338B2AC.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
