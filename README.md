@@ -13,13 +13,11 @@
 
 
 👋 Hey there, I’m Chayan (@chayanC7mondal)!
+👀 Interests: Full Stack Development, Machine Learning, and Cloud Computing.
+📫 Reach me: chayan.cm77@gmail.com
+⚡ Fun Fact: Your brain is so busy that it snacks on itself when you're not paying attention. So, if you forget things, just blame it on your brain’s midnight snack! 🧠🍕
 
-👀 I’ve got a passion for turning caffeine into Full Stack apps, training machines to learn (no, not to take over the world yet), and playing in the clouds—Cloud Computing, that is.
 
-📫 You can reach me anytime at chayan.cm77@gmail.com. Whether it's for work or to discuss why JavaScript is both loved and hated at the same time.
-
-⚡ Fun Fact: Did you know? Your brain is so busy, it’s snacking on itself when you're not paying attention. So next time you forget something, blame it on your brain's midnight snack! 🍕🧠
-<br>
 
 
 
