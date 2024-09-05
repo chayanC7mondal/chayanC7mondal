@@ -12,14 +12,13 @@
 
 
 
-👋 Hi, I’m @chayanC7mondal
+👋 Hey there, I’m Chayan (@chayanC7mondal)!
 
-👀 I’m interested in Full Stack Development, Machine Learning and Cloud Computing.
+👀 I’ve got a passion for turning caffeine into Full Stack apps, training machines to learn (no, not to take over the world yet), and playing in the clouds—Cloud Computing, that is.
 
+📫 You can reach me anytime at chayan.cm77@gmail.com. Whether it's for work or to discuss why JavaScript is both loved and hated at the same time.
 
-📫 reach me through my email : chayan.cm77@gmail.com<br>
-
-⚡ Fun fact: Your brain is constantly eating itself.
+⚡ Fun Fact: Did you know? Your brain is so busy, it’s snacking on itself when you're not paying attention. So next time you forget something, blame it on your brain's midnight snack! 🍕🧠
 <br>
 
 
