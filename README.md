@@ -132,6 +132,10 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23FF0000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
+### 🎮 3D & Graphics
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-%23FFAB00.svg?style=for-the-badge&logo=spline&logoColor=white)
+---
 
 ### 🖥️ System Details
 - **Laptop**: ASUS TUF Gaming A15
@@ -140,7 +144,6 @@
 ---
 
 
---- 
 
 ### 📈 Activity
 <div style="display:flex;justify-content:center;">
