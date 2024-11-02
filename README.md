@@ -108,6 +108,38 @@
 ![Ganache](https://img.shields.io/badge/Ganache-%23f78c40.svg?style=for-the-badge&logo=ganache&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23e3b341.svg?style=for-the-badge&logo=ethereum&logoColor=black)
 
+
+### ☁️ Hosting & Deployment Platforms
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2361DAFB) 
+![Render](https://img.shields.io/badge/Render-%2363B5F6.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+
+### 📦 Package Managers
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+
+
+
+### 🎨 Creative Tools
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2338B2AC.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23FF0000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+
+---
+
+### 🖥️ System Details
+- **Laptop**: ASUS TUF Gaming A15
+- **Processor**: Ryzen 7 7000 Series
+- **Graphics Card**: RTX 4050
+---
+
+
 --- 
 
 ### 📈 Activity
