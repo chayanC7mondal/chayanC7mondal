@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
 </div>
+
 <br>
 
 <h1>💫 About Me:</h1>
@@ -13,7 +14,9 @@
 👀 Interests: Full Stack Development, Machine Learning, and Cloud Computing.<br><br>
 📫 Reach me: chayan.cm77@gmail.com<br><br>
 ⚡ Fun Fact: Your brain is so busy that it snacks on itself when you're not paying attention. So, if you forget things, just blame it on your brain’s midnight snack! 🧠🍕
+
 <br>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
