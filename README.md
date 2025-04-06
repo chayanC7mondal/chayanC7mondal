@@ -124,7 +124,7 @@
   <img src="https://komarev.com/ghpvc/?username=chayanC7mondal&style=for-the-badge&color=blue" alt="Profile views"/>
 </div>
 
----
+
 
 ### 📈 GitHub Activity Graph
 <p align="center">
