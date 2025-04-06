@@ -119,12 +119,6 @@
 
 ---
 
-### 🖥️ System Specs
-- 💻 **Laptop**: ASUS TUF Gaming A15  
-- 🧠 **Processor**: Ryzen 7 7000 Series  
-- 🎮 **GPU**: RTX 4050  
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chayanC7mondal&style=for-the-badge&color=blue" alt="Profile views"/>
