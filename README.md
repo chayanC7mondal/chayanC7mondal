@@ -128,5 +128,5 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chayanC7mondal&theme=react&bg_color=20232a&hide_border=true"/>
-</p> 
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=chayanC7mondal&theme=react&bg_color=20232a&hide_border=true"/>
+</p>
