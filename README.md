@@ -52,7 +52,7 @@
 ## 🔥 My Stats
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3"/>
+[  <img height="160" src="https://streak-stats.demolab.com?user=chayanC7mondal&theme=bear&hide_border=true&border_radius=6.3"/>](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanC7mondal&theme=bear)
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chayanC7mondal&show_icons=true&theme=tokyonight"/>
 </p>
 
