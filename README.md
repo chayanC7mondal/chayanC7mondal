@@ -12,7 +12,7 @@
 ## 💫 About Me:
 
 👋 I'm **Chayan (@chayanC7mondal)** — a tech enthusiast with a passion for building awesome things.<br><br>
-👀 **Interests**: Full Stack Development, Machine Learning, and Blockchain Development.<br><br>
+👀 **Interests**: Full Stack Development, Machine Learning, DevOps, System Design and Blockchain Development.<br><br>
 📫 **Reach me**: chayanatwork07@gmail.com<br><br>
 ⚡ **Fun Fact**: Your brain is so active it might snack on itself when underused — so if you forget things, blame it on your brain’s midnight cravings! 🧠🍕
 
